@@ -6,6 +6,6 @@ let multiply = num1 * num2;
 
 let random = Math.floor(Math.random() * 10) + 1;
 
-let mod = ;
+let mod = 48 % 12;
 
 let max = Math.max(1,2,20);
