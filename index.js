@@ -8,4 +8,4 @@ let random = Math.floor(Math.random() * 10) + 1;
 
 let mod = ;
 
-let max = ;
+let max = Math.max(1,2,20);
